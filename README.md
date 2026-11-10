@@ -27,6 +27,15 @@ make
 
 ## Run
 
+**Easiest way:** use the launcher — it builds automatically the first time if needed:
+
+```sh
+run.bat        # Windows — double-click or run from a terminal
+./run.sh       # Linux / macOS (chmod +x run.sh once)
+```
+
+Or build and run manually:
+
 ```sh
 ./chatbot        # Linux / macOS
 chatbot.exe      # Windows
