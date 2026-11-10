@@ -1,0 +1,10 @@
+# build output
+chatbot
+chatbot.exe
+*.o
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
